@@ -1,14 +1,22 @@
 {
-  "name": "make",
+  "name": "03-tennis",
   "version": "1.0.0",
   "description": "",
   "main": "tennis.spce.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/58160527/03-tennis-js..git"
+  },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "jasmine": "^2.8.0"
+  "bugs": {
+    "url": "https://github.com/58160527/03-tennis-js./issues"
+  },
+  "homepage": "https://github.com/58160527/03-tennis-js.#readme",
+  "devDependencies": {
+    "jest": "^21.1.0"
   }
 }
